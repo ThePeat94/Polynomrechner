@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Polynomrechner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Polynomrechner_jar</output-path>
+    <root id="archive" name="Polynomrechner.jar">
+      <element id="module-output" name="Polynomrechner" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/Resources" />
+    </root>
+  </artifact>
+</component>
